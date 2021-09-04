@@ -1,0 +1,18 @@
+[submodule "api-smartranking-backend-nestjs"]
+	path = api-smartranking-backend-nestjs
+	url = https://github.com/trepichio/api-smartranking-backend-nestjs
+[submodule "smartranking-api-gateway"]
+	path = smartranking-api-gateway
+	url = https://github.com/trepichio/smartranking-api-gateway
+[submodule "smartranking-micro-rankings"]
+	path = smartranking-micro-rankings
+	url = https://github.com/trepichio/smartranking-micro-rankings
+[submodule "smartranking-micro-notifications"]
+	path = smartranking-micro-notifications
+	url = https://github.com/trepichio/smartranking-micro-notifications
+[submodule "smartranking-micro-challenges"]
+	path = smartranking-micro-challenges
+	url = https://github.com/trepichio/smartranking-micro-challenges
+[submodule "smartranking-micro-admin-backend"]
+	path = smartranking-micro-admin-backend
+	url = https://github.com/trepichio/smartranking-micro-admin-backend
